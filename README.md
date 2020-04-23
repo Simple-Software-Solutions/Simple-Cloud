@@ -4,6 +4,9 @@ SimpleCloud is a storage software solution which runs on your Masternodes. This 
 
 
 # Requirements
+SSS Masternode
+Ubuntu 18.04
+2GB RAM
 
 # Installation
 https://docs.sssolutions.io 

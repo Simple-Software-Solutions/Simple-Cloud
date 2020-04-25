@@ -20,6 +20,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">@lang('quickadmin.qa_dashboard')</div>
                 <div class="panel-body">
+                   @if(env("APP_MODE","personal") != "personal")
                     <div class="col-lg-4 col-md-6">
                         <div class="panel panel-success">
                             <div class="panel-heading">
@@ -35,7 +36,6 @@
                             </div>
                         </div>
                     </div>
-                    @if(env("APP_MODE","personal") != "personal")
                     <div class="col-lg-4 col-md-6">
                         <div class="panel panel-success">
                             <div class="panel-heading">

@@ -10,3 +10,5 @@ Ubuntu 18.04 OS
 
 # Installation
 https://docs.sssolutions.io 
+
+This is now replaced with Rubus Drive aka RDrive
